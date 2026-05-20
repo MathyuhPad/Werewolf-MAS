@@ -7,3 +7,5 @@ This project was our first experience with Multi-Agent Systems, as well as with 
 This contains our implementation of a voting and relations system. The number of players that will be given each role can be changed in the first lines of the code, which allows for experimentation.
 
 The code can be run and tested by opening Gama, opening the model and launching the simulation.
+
+Also, the Normal1.PNG file gives an idea as to what the simulation looks like, with each color representing a role.
